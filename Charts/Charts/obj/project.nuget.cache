@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qa4KEbkLYtK0aHnlhfPu4iu39BXmUrL9NtpG92/9BmMJDCzZQOdfJrwb4D9bWed0kgaOpOBK5VJ573Jw5KZYnw==",
+  "success": true,
+  "projectFilePath": "F:\\Workspace\\New AppSys\\Charts\\Charts\\Charts\\Charts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masoudi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\oxyplot.xamarin.forms\\2.1.0\\oxyplot.xamarin.forms.2.1.0.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\masoudi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

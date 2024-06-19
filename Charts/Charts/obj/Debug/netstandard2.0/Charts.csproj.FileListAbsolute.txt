@@ -1,0 +1,15 @@
+F:\Workspace\New AppSys\Charts\Charts\Charts\bin\Debug\netstandard2.0\Charts.deps.json
+F:\Workspace\New AppSys\Charts\Charts\Charts\bin\Debug\netstandard2.0\Charts.dll
+F:\Workspace\New AppSys\Charts\Charts\Charts\bin\Debug\netstandard2.0\Charts.pdb
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.csproj.AssemblyReference.cache
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.AssemblyInfoInputs.cache
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.AssemblyInfo.cs
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.csproj.CoreCompileInputs.cache
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.dll
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\refint\Charts.dll
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\Charts.pdb
+F:\Workspace\New AppSys\Charts\Charts\Charts\obj\Debug\netstandard2.0\ref\Charts.dll
